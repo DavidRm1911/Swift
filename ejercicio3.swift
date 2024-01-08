@@ -281,13 +281,6 @@ func menu(){
     let opcion = Int(readLine()!)!
     print(opcion)
   
-
-    /*print("A su vez escriba a cual campos deseas ir:")
-    print("1 Manchester")
-    print("2 Liverpool")
-    print("3 London")
-    var opcion2 = Int(readLine()!)!*/
-
     if(opcion == 1){
         print("Puedes elegir entre:")
         print("1. Manchester")
